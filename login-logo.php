@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: WP Easy Custom Login
-Description: Custom login screen automatically created from the logo and custom background set for the site.
+Description: Custom login screen automatically created from the logo and custom background set for the site. Essentially a hacked up version of Mark Jaquith's http://wordpress.org/plugins/login-logo/
 Version: 1.0.0
 License: GPL
 Plugin URI: http://joshmallard.com
